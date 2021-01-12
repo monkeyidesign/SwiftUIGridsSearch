@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		18BF59B625AD3E5D002A4C84 /* GridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BF59B525AD3E5D002A4C84 /* GridViewModel.swift */; };
 		18D39DB825A00EA9009E0D38 /* SwiftUIGridsSearchApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D39DB725A00EA9009E0D38 /* SwiftUIGridsSearchApp.swift */; };
 		18D39DBA25A00EA9009E0D38 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D39DB925A00EA9009E0D38 /* ContentView.swift */; };
 		18D39DBC25A00EAC009E0D38 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18D39DBB25A00EAC009E0D38 /* Assets.xcassets */; };
@@ -33,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		18BF59B525AD3E5D002A4C84 /* GridViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridViewModel.swift; sourceTree = "<group>"; };
 		18D39DB425A00EA9009E0D38 /* SwiftUIGridsSearch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIGridsSearch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18D39DB725A00EA9009E0D38 /* SwiftUIGridsSearchApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIGridsSearchApp.swift; sourceTree = "<group>"; };
 		18D39DB925A00EA9009E0D38 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				18D39DBB25A00EAC009E0D38 /* Assets.xcassets */,
 				18D39DC025A00EAC009E0D38 /* Info.plist */,
 				18D39DBD25A00EAC009E0D38 /* Preview Content */,
+				18BF59B525AD3E5D002A4C84 /* GridViewModel.swift */,
 			);
 			path = SwiftUIGridsSearch;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18BF59B625AD3E5D002A4C84 /* GridViewModel.swift in Sources */,
 				18D39DBA25A00EA9009E0D38 /* ContentView.swift in Sources */,
 				18D39DB825A00EA9009E0D38 /* SwiftUIGridsSearchApp.swift in Sources */,
 			);
